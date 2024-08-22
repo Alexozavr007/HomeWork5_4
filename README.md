@@ -1,5 +1,6 @@
 # Завдання
 Нормалізувати дану таблицю
+
 ![image](https://github.com/user-attachments/assets/6a9311f6-2900-4708-aa9b-8ee2dceb6b3e)
 
 # Схема БД в результаті
